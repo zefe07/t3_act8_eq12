@@ -21,7 +21,7 @@ Para la carga inicial, gestión y simulación de la base de datos de los pacient
 ## Proyecto Desplegado (VPS)
 El proyecto se encuentra compilado en estático y servido mediante un servidor web **Nginx** sobre un entorno **Ubuntu Linux VPS**.
 
-* **Link de acceso al sistema:** [http://TU_IP_O_DOMINIO_DEL_VPS](http://TU_IP_O_DOMINIO_DEL_VPS)
+* **Link de acceso al sistema:** [http://77.113.100.81/t3_act8_eq12/](http://77.113.100.81/t3_act8_eq12/)
 
 ---
 
