@@ -31,7 +31,7 @@ El proyecto se encuentra compilado en estático y servido mediante un servidor w
 * **Servidor Web:** Nginx (VPS Ubuntu Linux)
 * **Control de Versiones:** Git / GitHub
 
-
-
 ---
+
+## Capturas de pantalla de Figma 
 

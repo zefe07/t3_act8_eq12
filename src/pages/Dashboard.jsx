@@ -4,7 +4,7 @@ export default function Dashboard({ usuario, totalPacientes }) {
   return (
     <>
       <div className="dashboard-encabezado">
-        <h1>Buen día, Dra. {usuario.firstName}</h1>
+        <h1>Buen día, Doctora. {usuario.firstName}</h1>
         <div className="selector-fecha">
           <Calendar size={16} />
           <span>Martes, 20 de octubre 2026</span>
@@ -15,7 +15,7 @@ export default function Dashboard({ usuario, totalPacientes }) {
       <div className="tarjetas-grid">
         <div className="tarjeta-metrica">
           <div className="tarjeta-info">
-            <span className="tarjeta-titulo">Pacientes registrados</span>
+            <span className="tarjeta-titulo">Pacientes REGISTRADOS</span>
             <span className="tarjeta-numero">{totalPacientes || 70}</span>
           </div>
           <div className="tarjeta-icono">
